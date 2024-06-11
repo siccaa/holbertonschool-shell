@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir ls -l
+mkdir /tmp/test_tree
