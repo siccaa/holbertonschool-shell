@@ -1,2 +1,2 @@
 #!/bin/bash
--n "" > hello
+touch hello.sh
