@@ -1,2 +1,2 @@
 #!/bin/bash
--n hello
+./4-empty
