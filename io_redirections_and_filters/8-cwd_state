@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cwd_content touch iacta
+rm -rf test_cwd
