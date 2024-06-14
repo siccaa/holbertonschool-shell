@@ -1,2 +1,2 @@
 #!/bin/bash
-set
+export NUM=2.31 && printf '''%.2f''' $NUM
