@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr ''' ''' '''''' | grep -v oo
+{a..z}; do for b in {a..z}; do [[ $a$b != "oo" ]] && echo $a$b; done; done
