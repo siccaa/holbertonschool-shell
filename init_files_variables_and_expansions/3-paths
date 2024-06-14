@@ -1,2 +1,2 @@
-#!/bin/hash
+#!/bin/bash
 echo "Number of directories in PATH: $count"
