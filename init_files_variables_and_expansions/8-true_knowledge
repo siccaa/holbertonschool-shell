@@ -1,2 +1,2 @@
 #!/bin/bash
-port TRUEKNOWLEDGE=89
+echo $(( $TRUEKNOWLEDGE+128 ))
