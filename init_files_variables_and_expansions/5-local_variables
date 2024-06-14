@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v BASH_ARGV | head -2
+set 
