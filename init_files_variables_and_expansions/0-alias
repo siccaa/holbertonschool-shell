@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ll="ls -la"
+alias sl="ls -la"
