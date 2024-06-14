@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv global
+grep -v BASH_ARGV | head -2
