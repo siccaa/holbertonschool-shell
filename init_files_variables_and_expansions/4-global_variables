@@ -1,2 +1,2 @@
 #!/bin/bash
-env variables
+export HBTN=89
